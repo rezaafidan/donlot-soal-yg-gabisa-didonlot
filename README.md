@@ -27,7 +27,8 @@ pdf.save( "download.pdf" );
 };
 jspdf.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js' ;
 document.body.appendChild(jspdf);
-.
+
+
 note :
 1. mozila firefox is required (another browser are not supported)
 2. allow cookies
