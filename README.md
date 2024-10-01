@@ -1,9 +1,19 @@
 # hack-brainacademy
-menghapuskan kesenjangan reguler
+
+**menghapuskan kesenjangan reguler**
 
 ![logo](https://github.com/user-attachments/assets/dd00349c-6c1c-46ba-bd1d-173316c2c2c3)
 
-script hack download soal :
+## Table of Contents
+
+- [Code Script](#CodeScript)
+- [Requirement](#Requirement)
+- [Instruction](#Instruction)
+- [Liscense](#Liscense)
+ 
+## CodeScript 
+
+Script download soal :
 
 let jspdf = document.createElement( "script" );
 jspdf.onload = function () {
@@ -29,13 +39,19 @@ jspdf.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js' ;
 document.body.appendChild(jspdf);
 
 
-note :
+## Requirement
+
+Required Tools :
+
 1. mozila firefox is required (another browser are not supported)
 2. allow cookies
 3. allow javascript
 4. enable developer mode
 
-instruction :
+## Instruction
+
+Instruction using this script :
+
 1. Retrieve **Brain Academy soal** via the Mozilla Firefox web browser-
 2. copy the hack script..
 3. open **inspect element**
@@ -47,5 +63,9 @@ instruction :
 ![Screenshot 2024-10-01 212452](https://github.com/user-attachments/assets/e436d267-5a68-47e1-abb5-2cb0cb2ac5a6)
 ![Screenshot 2024-10-01 212552](https://github.com/user-attachments/assets/09f7f5d3-eacf-44aa-a3f0-4d7d331edfa4)
 
+## Licsense
+
 support author :
+
+linki.ee/rezaafidan
 linkti.ee/rezaafidan
