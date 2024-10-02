@@ -1,20 +1,27 @@
-# hack-brainacademy
 
+# **hack-brainacademy**
+___
 **menghapuskan kesenjangan reguler**
 
 ![logo](https://github.com/user-attachments/assets/dd00349c-6c1c-46ba-bd1d-173316c2c2c3)
 
-## Table of Contents
+---
 
-- [Code Script](#CodeScript)
+### **Table of Contents**
+
+- [Script Hack](#ScriptHack)
 - [Requirement](#Requirement)
 - [Instruction](#Instruction)
 - [Liscense](#Liscense)
+
  
-## CodeScript 
+### **Script Hack**
 
 Script download soal :
 
+`firefox-console-script`
+
+```
 let jspdf = document.createElement( "script" );
 jspdf.onload = function () {
 let pdf = new jsPDF();
@@ -37,9 +44,9 @@ pdf.save( "download.pdf" );
 };
 jspdf.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js' ;
 document.body.appendChild(jspdf);
+```
 
-
-## Requirement
+### **Requirement**
 
 Required Tools :
 
@@ -48,7 +55,7 @@ Required Tools :
 3. allow javascript
 4. enable developer mode
 
-## Instruction
+### **Instruction**
 
 Instruction using this script :
 
@@ -63,9 +70,9 @@ Instruction using this script :
 ![Screenshot 2024-10-01 212452](https://github.com/user-attachments/assets/e436d267-5a68-47e1-abb5-2cb0cb2ac5a6)
 ![Screenshot 2024-10-01 212552](https://github.com/user-attachments/assets/09f7f5d3-eacf-44aa-a3f0-4d7d331edfa4)
 
-## Licsense
+### Licsense
 
 support author :
 
 linki.ee/rezaafidan
-linkti.ee/rezaafidan
+
