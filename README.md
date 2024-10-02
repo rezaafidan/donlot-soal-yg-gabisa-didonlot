@@ -9,13 +9,13 @@ ___
 
 ### **Table of Contents**
 
-- [Script Hack](#ScriptHack)
+- [HackScript](#HackScript)
 - [Requirement](#Requirement)
 - [Instruction](#Instruction)
 - [Liscense](#Liscense)
 
  
-### **Script Hack**
+### **HackScript**
 
 Script download soal :
 
