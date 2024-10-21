@@ -56,8 +56,8 @@ Required Tools :
 
 Instruction using this script :
 
-1. Retrieve **Brain Academy soal** via the Mozilla Firefox web browser-
-2. copy the hack script..
+1. Retrieve **Brain Academy soal** via the Mozilla Firefox web browser
+2. copy the hack script
 3. open **Developer Tools** by pressing "**Ctrl+Shift+C**" on Windows
    or "**Cmd+Opt+I**" on Mac OS
 5. open **console** tabs on developer tools
