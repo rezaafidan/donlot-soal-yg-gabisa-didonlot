@@ -72,7 +72,5 @@ Instruction using this script :
 
 support author :
 
-Neo Adiyatma instagram.com/nyotodd
-Reza Afidan linki.ee/rezaafidan
-
-
+- Neo Adiyatma instagram.com/nyotodd
+- Reza Afidan linki.ee/rezaafidan
