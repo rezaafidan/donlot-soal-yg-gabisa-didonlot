@@ -1,16 +1,13 @@
 
-# **hack-brainacademy**
+# **donlot soal brainacademy yg gabisa di donlot**
 ___
 **donlot soal yg gabisa di donlot**
-
-![logo](https://github.com/user-attachments/assets/dd00349c-6c1c-46ba-bd1d-173316c2c2c3)
 
 ---
 
 ### **Table of Contents**
 
 - [HackScript](#HackScript)
-- [Requirement](#Requirement)
 - [Instruction](#Instruction)
 - [Liscense](#Liscense)
 
@@ -46,17 +43,11 @@ jspdf.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js' ;
 document.body.appendChild(jspdf);
 ```
 
-### **Requirement**
-
-Required Tools :
-
-1. mozila firefox is required (another browser are not supported)
-
 ### **Instruction**
 
 Instruction using this script :
 
-1. Retrieve **Brain Academy soal** via the Mozilla Firefox web browser
+1. Retrieve **Brain Academy soal** via web browser
 2. copy the hack script
 3. open **Developer Tools** by pressing :
 - "**Ctrl+Shift+C**" on Windows or
@@ -70,7 +61,4 @@ Instruction using this script :
 
 ### Licsense
 
-support author :
-
-- Neo Adiyatma instagram.com/nyotodd
-- Reza Afidan linki.ee/rezaafidan
+-
