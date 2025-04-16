@@ -1,20 +1,7 @@
 
-# **donlot soal brainacademy yg gabisa di donlot**
-___
-**donlot soal yg gabisa di donlot**
-
----
-
-### **Table of Contents**
-
-- [HackScript](#HackScript)
-- [Instruction](#Instruction)
-- [Liscense](#Liscense)
-
+download undownloadable
  
-### **HackScript**
-
-Script download soal :
+### **Script**
 
 `firefox-console-script`
 
@@ -47,18 +34,11 @@ document.body.appendChild(jspdf);
 
 Instruction using this script :
 
-1. Retrieve **Brain Academy soal** via web browser
-2. copy the hack script
+1. Retrieve **pdf** via web browser
+2. copy the script
 3. open **Developer Tools** by pressing :
 - "**Ctrl+Shift+C**" on Windows or
 - "**Cmd+Opt+I**" on Mac OS
-5. open **console** tabs on developer tools
-6. type "**allow pasting**" and enter
-7. paste the hack script and enter
-9. the file will be downloaded
-![Screenshot 2024-10-01 212452](https://github.com/user-attachments/assets/e436d267-5a68-47e1-abb5-2cb0cb2ac5a6)
-![Screenshot 2024-10-01 212552](https://github.com/user-attachments/assets/09f7f5d3-eacf-44aa-a3f0-4d7d331edfa4)
-
-### Licsense
-
--
+4. open **console** tabs on developer tools
+5. type "**allow pasting**" and enter
+6. paste the script and enter
